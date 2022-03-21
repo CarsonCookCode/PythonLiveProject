@@ -9,7 +9,9 @@ Here are some of the highlights from the project:
 I first worked on setting up the most basic features essential for any program that enables the user to interact with a database.
 After basic CRUD functionality was completed I created the test element to the creation process of a profile.
 
-![Screenshot (64)](https://user-images.githubusercontent.com/73494842/159364163-d7f3bf52-e771-48e8-bbd7-e75335a27f53.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/73494842/159366959-7ea59a09-753a-457d-9d74-9ec602f39f3b.png)
+
+![Screenshot (69)](https://user-images.githubusercontent.com/73494842/159366964-2a4a2e54-73b1-4aef-a19e-eb52f2cb56a6.png)
 
 ![template1](https://user-images.githubusercontent.com/73494842/159364800-7ea9e7aa-1174-49e5-9655-1f35ff456d17.png)
 
