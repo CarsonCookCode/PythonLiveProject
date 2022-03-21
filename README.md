@@ -24,7 +24,7 @@ Creation Template:
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/73494842/159361039-957f84bd-85c6-4b98-bb76-5f4e7fdda391.png)
 
-Viewing Data:
+Display Data Template:
 
 ![template2](https://user-images.githubusercontent.com/73494842/159364855-86c983cc-40c9-4177-8f21-f16db9a46c8f.png)
 
