@@ -11,11 +11,8 @@ After basic CRUD functionality was completed I created the test element to the c
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/73494842/159361039-957f84bd-85c6-4b98-bb76-5f4e7fdda391.png)
 
-## Create
-I created a function in the view and a simple interface for the user to create a profile.
-
-## Read
-After data was being added to the database I need the user to be able to view the contents. I added another function to the view as well as another template for viewing the data.
+## Create and Read
+I created a function in the view and a simple interface for the user to create a profile. After data was being added to the database I need the user to be able to view the contents. I added another function to the view as well as another template for viewing the data.
 
 ![Screenshot (56)](https://user-images.githubusercontent.com/73494842/159361391-e3c8a74d-742d-4d64-ad84-3ea3b3f43b0c.png)
 
