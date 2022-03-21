@@ -22,6 +22,8 @@ Creation Template:
 
 ![template1](https://user-images.githubusercontent.com/73494842/159364800-7ea9e7aa-1174-49e5-9655-1f35ff456d17.png)
 
+Page for creating a profile and taking a test to determine personality.
+
 ![Screenshot (74)](https://user-images.githubusercontent.com/73494842/159371886-14b6ffe2-12d1-4ae5-b15d-0745ef6d03f7.png)
 
 Display Data Template:
