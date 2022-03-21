@@ -72,7 +72,7 @@ I used the data to provide the user with a percentile score in order to give the
 ![Screenshot (61)](https://user-images.githubusercontent.com/73494842/159362321-50e540eb-3481-445d-85cd-07e769bbe7d7.png)
 
 ## Front End Development
-After completing all essential functionality for my application I increased user-friendliness and aesthetic experience. I made some simple design choices and optimizations. I wanted the data to be presented beautifully to the user and to provide a seemless bug-free service. These changes are included in the screenshots above.
+After completing all essential functionality for my application I increased user-friendliness and improved aesthetic experience. I made some simple design choices and optimizations. I wanted the data to be presented beautifully to the user and to provide a seemless bug-free service. These changes are included in the screenshots above.
 
 ## Skills Acquired
 I gained a great deal of perspective from this project. I got a lot of practice with Python, Django, CRUD, APIs and Webscraping. I have become more comfortable with existing in a place where I do not know everything. This project gave me the opportunity to practice how to approach a complex problem and to decide when I need to spend time researching a concept or to experiment with what I know. I also learned that for a project to come together and to provide a useful service it is important to have a vision of the end product and to spend time planning to enable you to develop most efficiently and effectively.
