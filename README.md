@@ -50,7 +50,7 @@ I also wanted the user to be able to quickly generate realistic profiles. I foun
 ## API
 I wanted the user to derive useful information from their personality results. I implemented a simple algorithm that determines which job is most fitting for people with a given personality makeup. The results determined the terms that would be set as parameters for the query to the API that accesses data from the employment website Indeed. The user provides a location and then they are redirected to a table of relevant jobs that may interest them as well as a link to the corresponding page from Indeed.
 
-![Screenshot (58)](https://user-images.githubusercontent.com/73494842/159362260-4a1d2ade-e2fa-4440-80d9-50c9d4f4134e.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/73494842/159371132-a4b8772a-06dd-4397-ad8f-cb20ac973d67.png)
 
 ![job_api](https://user-images.githubusercontent.com/73494842/159368029-22f297de-05e7-4ba8-9cbc-4ab0191942ec.png)
 
