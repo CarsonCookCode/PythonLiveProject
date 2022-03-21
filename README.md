@@ -1,7 +1,7 @@
 # Python Live Project - Code Summary
 
 ## Introduction
-I worked in an Agile/Scrum environment to build an application demonstrating proficiency with Python in Django. I created a program that allowed the user to take a personality test from the Big 5 theory of personality using questions from the International Personality Item Pool and to save their results to a database. I gave the app useful CRUD functionality and other features utilizing APIs and Web Scraping. We used Azure DevOps to manage our repositories and user stories. I developed a productive workflow after familiarizing myself with the tools at my disposal. Over the two week sprint I had many opportunities to learn what it means to work as part of a team on a single project.
+I worked in an Agile/Scrum environment to build an application demonstrating proficiency with Python in Django. I created a program that allowed the user to take a personality test from the Big 5 theory of personality using questions from the International Personality Item Pool and to save their results to a database. They can create profiles for themselves as well as friends or whoever their interesting in comparing personalities with. I gave the app useful CRUD functionality and other features utilizing APIs and Web Scraping. We used Azure DevOps to manage our repositories and user stories. I developed a productive workflow after familiarizing myself with the tools at my disposal. Over the two week sprint I had many opportunities to learn what it means to work as part of a team on a single project.
 
 Here are some of the highlights from the project: 
 
