@@ -12,11 +12,13 @@ After basic CRUD functionality was completed I created the test element to the c
 ## Create and Read
 I created a function in the view and a simple interface for the user to create a profile. After data was being added to the database I need the user to be able to view the contents. I added another function to the view as well as another template for viewing the data.
 
+Creating Profile:
+
 ![Screenshot (68)](https://user-images.githubusercontent.com/73494842/159366959-7ea59a09-753a-457d-9d74-9ec602f39f3b.png)
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/73494842/159366964-2a4a2e54-73b1-4aef-a19e-eb52f2cb56a6.png)
 
-Creating Profile:
+Creation Template:
 
 ![template1](https://user-images.githubusercontent.com/73494842/159364800-7ea9e7aa-1174-49e5-9655-1f35ff456d17.png)
 
