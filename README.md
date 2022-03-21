@@ -43,7 +43,7 @@ I utilized web scraping to provide useful information about the personality trai
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/73494842/159361583-30111da5-17d9-49a4-93f4-fa054a67dc45.png)
 
-I also wanted the user to be able to quickly generate realistic profiles. I found a page containing many names for males and females to use for this purpose. When the user generates a profile it downloads the page and selects a random name to be user for the creation of the profile. For the sake of accuracy, I calculated the mean and the standard deviation for each of the traits in the general population in order to generate values on the normal distribution for each trait respectively.
+I also wanted the user to be able to quickly generate realistic profiles. I found a page containing many names for males and females to use for this purpose. When the user generates a profile it downloads the page and selects a random name to be used for the creation of the profile. For the sake of accuracy, I calculated the mean and the standard deviation for each of the traits in the general population in order to generate values on the normal distribution for each trait respectively.
 
 ![Sss](https://user-images.githubusercontent.com/73494842/159362173-436fd153-79a6-48e1-9928-fd1ee8d46d3c.png)
 
