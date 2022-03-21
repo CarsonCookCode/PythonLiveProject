@@ -36,6 +36,8 @@ I implemented updating and deleting profiles and their information.
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/73494842/159365192-85189543-8a3a-4c79-b3ba-301948bec046.png)
 
+This is the details page where the user can view the results of a specific profile as well as make changes to their information.
+
 ![Screenshot (57)](https://user-images.githubusercontent.com/73494842/159361462-cc48cb6b-d1f9-466e-b15e-c4ef5a4e857d.png)
 
 ## Web Scraping
