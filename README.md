@@ -46,6 +46,8 @@ I wanted the user to derive useful information from their personality results. I
 
 ![Screenshot (58)](https://user-images.githubusercontent.com/73494842/159362260-4a1d2ade-e2fa-4440-80d9-50c9d4f4134e.png)
 
+![job_api](https://user-images.githubusercontent.com/73494842/159368029-22f297de-05e7-4ba8-9cbc-4ab0191942ec.png)
+
 ![Screenshot (59)](https://user-images.githubusercontent.com/73494842/159362275-68319794-bb7d-4855-9971-dcdfa2bd71c3.png)
 
 ## Additional Functionality
