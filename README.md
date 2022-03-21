@@ -9,16 +9,20 @@ Here are some of the highlights from the project:
 I first worked on setting up the most basic features essential for any program that enables the user to interact with a database.
 After basic CRUD functionality was completed I created the test element to the creation process of a profile.
 
+## Create and Read
+I created a function in the view and a simple interface for the user to create a profile. After data was being added to the database I need the user to be able to view the contents. I added another function to the view as well as another template for viewing the data.
+
 ![Screenshot (68)](https://user-images.githubusercontent.com/73494842/159366959-7ea59a09-753a-457d-9d74-9ec602f39f3b.png)
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/73494842/159366964-2a4a2e54-73b1-4aef-a19e-eb52f2cb56a6.png)
+
+Creating Profile:
 
 ![template1](https://user-images.githubusercontent.com/73494842/159364800-7ea9e7aa-1174-49e5-9655-1f35ff456d17.png)
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/73494842/159361039-957f84bd-85c6-4b98-bb76-5f4e7fdda391.png)
 
-## Create and Read
-I created a function in the view and a simple interface for the user to create a profile. After data was being added to the database I need the user to be able to view the contents. I added another function to the view as well as another template for viewing the data.
+Viewing Data:
 
 ![template2](https://user-images.githubusercontent.com/73494842/159364855-86c983cc-40c9-4177-8f21-f16db9a46c8f.png)
 
