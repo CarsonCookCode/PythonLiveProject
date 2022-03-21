@@ -22,7 +22,7 @@ Creation Template:
 
 ![template1](https://user-images.githubusercontent.com/73494842/159364800-7ea9e7aa-1174-49e5-9655-1f35ff456d17.png)
 
-![Screenshot (60)](https://user-images.githubusercontent.com/73494842/159361039-957f84bd-85c6-4b98-bb76-5f4e7fdda391.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/73494842/159371747-8d14d30e-237a-41df-aa1f-56b24041f1c2.png)
 
 Display Data Template:
 
