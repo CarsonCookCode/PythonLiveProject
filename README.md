@@ -17,7 +17,7 @@ I created a function in the view and a simple interface for the user to create a
 ![Screenshot (56)](https://user-images.githubusercontent.com/73494842/159361391-e3c8a74d-742d-4d64-ad84-3ea3b3f43b0c.png)
 
 ## Update and Delete
-I implemented updating and delete profiles and their information.
+I implemented updating and deleting profiles and their information.
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/73494842/159361462-cc48cb6b-d1f9-466e-b15e-c4ef5a4e857d.png)
 
