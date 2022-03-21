@@ -30,6 +30,8 @@ Display Data Template:
 
 ![template2](https://user-images.githubusercontent.com/73494842/159364855-86c983cc-40c9-4177-8f21-f16db9a46c8f.png)
 
+Page for viewing all profiles and can click to access an individual profile and have access to other features including sorting.
+
 ![Screenshot (56)](https://user-images.githubusercontent.com/73494842/159361391-e3c8a74d-742d-4d64-ad84-3ea3b3f43b0c.png)
 
 
