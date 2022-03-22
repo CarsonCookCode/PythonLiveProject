@@ -63,7 +63,7 @@ I wanted the user to derive useful information from their personality results. I
 ![Screenshot (59)](https://user-images.githubusercontent.com/73494842/159362275-68319794-bb7d-4855-9971-dcdfa2bd71c3.png)
 
 ## Additional Functionality
-I had created a straightforward program of creating user profiles, editing information, and displaying data, but wanted to make the results the user recieved to be more meaningful. I found a publicly available csv file containing over 300,000 profiles with data using the same theory of personality I derived from to create my test. I enable the user to download a sample from this data and to view it. 
+I had created a straightforward program of creating user profiles, editing information, and displaying data, but wanted to make the results the user recieved to be more meaningful. I found a publicly available csv file containing over 300,000 profiles with data using the same theory of personality I derived from to create my test. I enabled the user to download a sample from this data and to view it. 
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/73494842/159362351-b1561d5e-1ac5-401c-a1e4-3763bd2a8101.png)
 
