@@ -67,7 +67,7 @@ I had created a straightforward program of creating user profiles, editing infor
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/73494842/159362351-b1561d5e-1ac5-401c-a1e4-3763bd2a8101.png)
 
-I used the data to provide the user with a percentile score to give them a perspective on how their personality compares to the world.
+I used the data to provide the user with a percentile score to give them perspective about their personality's relationship to the rest of the world.
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/73494842/159362321-50e540eb-3481-445d-85cd-07e769bbe7d7.png)
 
