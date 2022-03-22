@@ -30,7 +30,7 @@ Display Data Template:
 
 ![template2](https://user-images.githubusercontent.com/73494842/159364855-86c983cc-40c9-4177-8f21-f16db9a46c8f.png)
 
-Page for viewing all profiles and can click to access an individual profile and have access to other features including sorting.
+Page for viewing all profiles and can click to access an individual profile and have access to other features including sorting and a quick delete mode for faster removal of profiles.
 
 ![Screenshot (56)](https://user-images.githubusercontent.com/73494842/159361391-e3c8a74d-742d-4d64-ad84-3ea3b3f43b0c.png)
 
@@ -67,7 +67,7 @@ I had created a straightforward program of creating user profiles, editing infor
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/73494842/159362351-b1561d5e-1ac5-401c-a1e4-3763bd2a8101.png)
 
-I used the data to provide the user with a percentile score in order to give them a perspective on how their personality compares to the world. I also added a quick delete mode to allow for faster removal of profiles.
+I used the data to provide the user with a percentile score to give them a perspective on how their personality compares to the world.
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/73494842/159362321-50e540eb-3481-445d-85cd-07e769bbe7d7.png)
 
