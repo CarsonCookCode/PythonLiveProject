@@ -15,8 +15,6 @@ I created a function in the view and a simple interface for the user to create a
 Creating Profile:
 
 
-![carson-2](https://user-images.githubusercontent.com/73494842/183209501-55182655-403c-42d6-bccc-3bcb51318dcd.jpg)
-
 ![Screenshot (68)](https://user-images.githubusercontent.com/73494842/159366959-7ea59a09-753a-457d-9d74-9ec602f39f3b.png)
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/73494842/159366964-2a4a2e54-73b1-4aef-a19e-eb52f2cb56a6.png)
